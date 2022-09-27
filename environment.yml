@@ -1,0 +1,7 @@
+dependencies:
+  - python>=3.9
+  - astropy>=4.0
+  - pint
+  - uncertainties
+  - scipy
+  - sympy
